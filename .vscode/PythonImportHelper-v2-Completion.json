@@ -1,0 +1,2178 @@
+[
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "WordNetLemmatizer",
+        "importPath": "nltk.stem",
+        "description": "nltk.stem",
+        "isExtraImport": true,
+        "detail": "nltk.stem",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "hazm",
+        "description": "hazm",
+        "isExtraImport": true,
+        "detail": "hazm",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Dash",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dcc",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Output",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dash_table",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Dash",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dcc",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.express",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.express",
+        "description": "plotly.express",
+        "detail": "plotly.express",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "mixer",
+        "importPath": "pygame",
+        "description": "pygame",
+        "isExtraImport": true,
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "keras.preprocessing",
+        "description": "keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "to_categorical",
+        "importPath": "keras.utils.np_utils",
+        "description": "keras.utils.np_utils",
+        "isExtraImport": true,
+        "detail": "keras.utils.np_utils",
+        "documentation": {}
+    },
+    {
+        "label": "random,shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random.shutil",
+        "description": "random.shutil",
+        "detail": "random.shutil",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "keras.models",
+        "description": "keras.models",
+        "isExtraImport": true,
+        "detail": "keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Conv2D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Flatten",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "MaxPooling2D",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "BatchNormalization",
+        "importPath": "keras.layers",
+        "description": "keras.layers",
+        "isExtraImport": true,
+        "detail": "keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageEnhance",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageDraw",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.mobilenet_v2",
+        "description": "tensorflow.keras.applications.mobilenet_v2",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.mobilenet_v2",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.mobilenet_v2",
+        "description": "tensorflow.keras.applications.mobilenet_v2",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.mobilenet_v2",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.mobilenet_v2",
+        "description": "tensorflow.keras.applications.mobilenet_v2",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.mobilenet_v2",
+        "documentation": {}
+    },
+    {
+        "label": "img_to_array",
+        "importPath": "tensorflow.keras.preprocessing.image",
+        "description": "tensorflow.keras.preprocessing.image",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing.image",
+        "documentation": {}
+    },
+    {
+        "label": "img_to_array",
+        "importPath": "tensorflow.keras.preprocessing.image",
+        "description": "tensorflow.keras.preprocessing.image",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing.image",
+        "documentation": {}
+    },
+    {
+        "label": "img_to_array",
+        "importPath": "tensorflow.keras.preprocessing.image",
+        "description": "tensorflow.keras.preprocessing.image",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing.image",
+        "documentation": {}
+    },
+    {
+        "label": "detect_mask_image",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "detect_mask_image",
+        "description": "detect_mask_image",
+        "detail": "detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "VideoStream",
+        "importPath": "imutils.video",
+        "description": "imutils.video",
+        "isExtraImport": true,
+        "detail": "imutils.video",
+        "documentation": {}
+    },
+    {
+        "label": "imutils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "imutils",
+        "description": "imutils",
+        "detail": "imutils",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "winsound",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "winsound",
+        "description": "winsound",
+        "detail": "winsound",
+        "documentation": {}
+    },
+    {
+        "label": "TextBlob",
+        "importPath": "textblob",
+        "description": "textblob",
+        "isExtraImport": true,
+        "detail": "textblob",
+        "documentation": {}
+    },
+    {
+        "label": "emoji",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "emoji",
+        "description": "emoji",
+        "detail": "emoji",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "urlopen",
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "isExtraImport": true,
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "scrapy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scrapy",
+        "description": "scrapy",
+        "detail": "scrapy",
+        "documentation": {}
+    },
+    {
+        "label": "CrawlSpider",
+        "importPath": "scrapy.spiders",
+        "description": "scrapy.spiders",
+        "isExtraImport": true,
+        "detail": "scrapy.spiders",
+        "documentation": {}
+    },
+    {
+        "label": "Rule",
+        "importPath": "scrapy.spiders",
+        "description": "scrapy.spiders",
+        "isExtraImport": true,
+        "detail": "scrapy.spiders",
+        "documentation": {}
+    },
+    {
+        "label": "LinkExtractor",
+        "importPath": "scrapy.linkextractors",
+        "description": "scrapy.linkextractors",
+        "isExtraImport": true,
+        "detail": "scrapy.linkextractors",
+        "documentation": {}
+    },
+    {
+        "label": "CrawlerProcess",
+        "importPath": "scrapy.crawler",
+        "description": "scrapy.crawler",
+        "isExtraImport": true,
+        "detail": "scrapy.crawler",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "predict_class",
+        "kind": 2,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "def predict_class(news):\n    title_body_tokenized = word_tokenize(news)\n    title_body_tokenized_filtered_stemming = [w for w in title_body_tokenized if not w in nltk_stopwords]\n    # title_body_tokenized_filtered_stemming = [stemmer.stem(w) for w in title_body_tokenized_filtered]\n    x = [' '.join(title_body_tokenized_filtered_stemming)]\n    x_v = v.transform(x)\n    p = svc.predict(x_v)\n    label = le.inverse_transform(p)\n    return label[0]\nimport tkinter",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "send",
+        "kind": 2,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "def send():\n    msg = EntryBox.get(\"1.0\",'end-1c').strip()\n    EntryBox.delete(\"0.0\",END)\n    if msg != '':\n        ChatLog.config(state=NORMAL)\n        res = predict_class(msg)\n        ChatLog.insert(END, \"دسته‌بندی خبر برابر است با: \" + res + '\\n')\n        ChatLog.config(state=DISABLED)\n        ChatLog.yview(END)\nbase = Tk()",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "lemmatizer",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "lemmatizer = WordNetLemmatizer()\nimport pickle\nimport numpy as np\nimport json\nimport random\nimport os\nfrom hazm import word_tokenize\nimport nltk\ncurrent_dir = os.path.dirname(os.path.realpath(__file__))\nmodel = os.path.join(current_dir, 'models', 'lion_v.jdsh')",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.realpath(__file__))\nmodel = os.path.join(current_dir, 'models', 'lion_v.jdsh')\nlion_v = open(model, 'rb')\nv = pickle.load(lion_v)\nlion_v.close()\nmodel = os.path.join(current_dir, 'models', 'lion_le.jdsh')\nlion_le = open(model, 'rb')\nle = pickle.load(lion_le)\nlion_le.close()\nmodel = os.path.join(current_dir, 'models', 'lion_svc.jdsh')",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "model = os.path.join(current_dir, 'models', 'lion_v.jdsh')\nlion_v = open(model, 'rb')\nv = pickle.load(lion_v)\nlion_v.close()\nmodel = os.path.join(current_dir, 'models', 'lion_le.jdsh')\nlion_le = open(model, 'rb')\nle = pickle.load(lion_le)\nlion_le.close()\nmodel = os.path.join(current_dir, 'models', 'lion_svc.jdsh')\nlion_svc = open(model, 'rb')",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "lion_v",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "lion_v = open(model, 'rb')\nv = pickle.load(lion_v)\nlion_v.close()\nmodel = os.path.join(current_dir, 'models', 'lion_le.jdsh')\nlion_le = open(model, 'rb')\nle = pickle.load(lion_le)\nlion_le.close()\nmodel = os.path.join(current_dir, 'models', 'lion_svc.jdsh')\nlion_svc = open(model, 'rb')\nsvc = pickle.load(lion_svc)",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "v = pickle.load(lion_v)\nlion_v.close()\nmodel = os.path.join(current_dir, 'models', 'lion_le.jdsh')\nlion_le = open(model, 'rb')\nle = pickle.load(lion_le)\nlion_le.close()\nmodel = os.path.join(current_dir, 'models', 'lion_svc.jdsh')\nlion_svc = open(model, 'rb')\nsvc = pickle.load(lion_svc)\nlion_svc.close()",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "model = os.path.join(current_dir, 'models', 'lion_le.jdsh')\nlion_le = open(model, 'rb')\nle = pickle.load(lion_le)\nlion_le.close()\nmodel = os.path.join(current_dir, 'models', 'lion_svc.jdsh')\nlion_svc = open(model, 'rb')\nsvc = pickle.load(lion_svc)\nlion_svc.close()\nmodel = os.path.join(current_dir, 'models', 'stopwords.txt')\nwith open(model, encoding='utf8') as stopwords_file:",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "lion_le",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "lion_le = open(model, 'rb')\nle = pickle.load(lion_le)\nlion_le.close()\nmodel = os.path.join(current_dir, 'models', 'lion_svc.jdsh')\nlion_svc = open(model, 'rb')\nsvc = pickle.load(lion_svc)\nlion_svc.close()\nmodel = os.path.join(current_dir, 'models', 'stopwords.txt')\nwith open(model, encoding='utf8') as stopwords_file:\n    stopwords = stopwords_file.readlines()",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "le",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "le = pickle.load(lion_le)\nlion_le.close()\nmodel = os.path.join(current_dir, 'models', 'lion_svc.jdsh')\nlion_svc = open(model, 'rb')\nsvc = pickle.load(lion_svc)\nlion_svc.close()\nmodel = os.path.join(current_dir, 'models', 'stopwords.txt')\nwith open(model, encoding='utf8') as stopwords_file:\n    stopwords = stopwords_file.readlines()\nstopwords = [str(line).replace('\\n', '') for line in stopwords]",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "model = os.path.join(current_dir, 'models', 'lion_svc.jdsh')\nlion_svc = open(model, 'rb')\nsvc = pickle.load(lion_svc)\nlion_svc.close()\nmodel = os.path.join(current_dir, 'models', 'stopwords.txt')\nwith open(model, encoding='utf8') as stopwords_file:\n    stopwords = stopwords_file.readlines()\nstopwords = [str(line).replace('\\n', '') for line in stopwords]\nnltk_stopwords = nltk.corpus.stopwords.words('english')\nnltk_stopwords.extend(stopwords)",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "lion_svc",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "lion_svc = open(model, 'rb')\nsvc = pickle.load(lion_svc)\nlion_svc.close()\nmodel = os.path.join(current_dir, 'models', 'stopwords.txt')\nwith open(model, encoding='utf8') as stopwords_file:\n    stopwords = stopwords_file.readlines()\nstopwords = [str(line).replace('\\n', '') for line in stopwords]\nnltk_stopwords = nltk.corpus.stopwords.words('english')\nnltk_stopwords.extend(stopwords)\ndef predict_class(news):",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "svc",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "svc = pickle.load(lion_svc)\nlion_svc.close()\nmodel = os.path.join(current_dir, 'models', 'stopwords.txt')\nwith open(model, encoding='utf8') as stopwords_file:\n    stopwords = stopwords_file.readlines()\nstopwords = [str(line).replace('\\n', '') for line in stopwords]\nnltk_stopwords = nltk.corpus.stopwords.words('english')\nnltk_stopwords.extend(stopwords)\ndef predict_class(news):\n    title_body_tokenized = word_tokenize(news)",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "model = os.path.join(current_dir, 'models', 'stopwords.txt')\nwith open(model, encoding='utf8') as stopwords_file:\n    stopwords = stopwords_file.readlines()\nstopwords = [str(line).replace('\\n', '') for line in stopwords]\nnltk_stopwords = nltk.corpus.stopwords.words('english')\nnltk_stopwords.extend(stopwords)\ndef predict_class(news):\n    title_body_tokenized = word_tokenize(news)\n    title_body_tokenized_filtered_stemming = [w for w in title_body_tokenized if not w in nltk_stopwords]\n    # title_body_tokenized_filtered_stemming = [stemmer.stem(w) for w in title_body_tokenized_filtered]",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "stopwords",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "stopwords = [str(line).replace('\\n', '') for line in stopwords]\nnltk_stopwords = nltk.corpus.stopwords.words('english')\nnltk_stopwords.extend(stopwords)\ndef predict_class(news):\n    title_body_tokenized = word_tokenize(news)\n    title_body_tokenized_filtered_stemming = [w for w in title_body_tokenized if not w in nltk_stopwords]\n    # title_body_tokenized_filtered_stemming = [stemmer.stem(w) for w in title_body_tokenized_filtered]\n    x = [' '.join(title_body_tokenized_filtered_stemming)]\n    x_v = v.transform(x)\n    p = svc.predict(x_v)",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "nltk_stopwords",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "nltk_stopwords = nltk.corpus.stopwords.words('english')\nnltk_stopwords.extend(stopwords)\ndef predict_class(news):\n    title_body_tokenized = word_tokenize(news)\n    title_body_tokenized_filtered_stemming = [w for w in title_body_tokenized if not w in nltk_stopwords]\n    # title_body_tokenized_filtered_stemming = [stemmer.stem(w) for w in title_body_tokenized_filtered]\n    x = [' '.join(title_body_tokenized_filtered_stemming)]\n    x_v = v.transform(x)\n    p = svc.predict(x_v)\n    label = le.inverse_transform(p)",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "base = Tk()\nbase.title(\"Hello\")\nbase.geometry(\"400x500\")\nbase.resizable(width=True, height=True)\nChatLog = Text(base, bd=0, bg=\"white\", height=\"8\", width=\"50\", font=\"Arial\",)\nChatLog.config(state=DISABLED)\nscrollbar = Scrollbar(base, command=ChatLog.yview, cursor=\"heart\")\nChatLog['yscrollcommand'] = scrollbar.set\nSendButton = Button(base, font=(\"Verdana\",12,'bold'), text=\"Send\", width=\"12\", height=5,\n                    bd=0, bg=\"#32de97\", activebackground=\"#3c9d9b\",fg='#ffffff',",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "ChatLog",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "ChatLog = Text(base, bd=0, bg=\"white\", height=\"8\", width=\"50\", font=\"Arial\",)\nChatLog.config(state=DISABLED)\nscrollbar = Scrollbar(base, command=ChatLog.yview, cursor=\"heart\")\nChatLog['yscrollcommand'] = scrollbar.set\nSendButton = Button(base, font=(\"Verdana\",12,'bold'), text=\"Send\", width=\"12\", height=5,\n                    bd=0, bg=\"#32de97\", activebackground=\"#3c9d9b\",fg='#ffffff',\n                    command= send )\nEntryBox = Text(base, bd=0, bg=\"white\",width=\"29\", height=\"5\", font=\"Arial\")\nEntryBox.bind_all(\"<Key>\", _onKeyRelease, \"+\")\nscrollbar.place(x=376,y=6, height=386)",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "scrollbar",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "scrollbar = Scrollbar(base, command=ChatLog.yview, cursor=\"heart\")\nChatLog['yscrollcommand'] = scrollbar.set\nSendButton = Button(base, font=(\"Verdana\",12,'bold'), text=\"Send\", width=\"12\", height=5,\n                    bd=0, bg=\"#32de97\", activebackground=\"#3c9d9b\",fg='#ffffff',\n                    command= send )\nEntryBox = Text(base, bd=0, bg=\"white\",width=\"29\", height=\"5\", font=\"Arial\")\nEntryBox.bind_all(\"<Key>\", _onKeyRelease, \"+\")\nscrollbar.place(x=376,y=6, height=386)\nChatLog.place(x=6,y=6, height=386, width=370)\nEntryBox.place(x=128, y=401, height=90, width=265)",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "ChatLog['yscrollcommand']",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "ChatLog['yscrollcommand'] = scrollbar.set\nSendButton = Button(base, font=(\"Verdana\",12,'bold'), text=\"Send\", width=\"12\", height=5,\n                    bd=0, bg=\"#32de97\", activebackground=\"#3c9d9b\",fg='#ffffff',\n                    command= send )\nEntryBox = Text(base, bd=0, bg=\"white\",width=\"29\", height=\"5\", font=\"Arial\")\nEntryBox.bind_all(\"<Key>\", _onKeyRelease, \"+\")\nscrollbar.place(x=376,y=6, height=386)\nChatLog.place(x=6,y=6, height=386, width=370)\nEntryBox.place(x=128, y=401, height=90, width=265)\nSendButton.place(x=6, y=401, height=90)",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "SendButton",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "SendButton = Button(base, font=(\"Verdana\",12,'bold'), text=\"Send\", width=\"12\", height=5,\n                    bd=0, bg=\"#32de97\", activebackground=\"#3c9d9b\",fg='#ffffff',\n                    command= send )\nEntryBox = Text(base, bd=0, bg=\"white\",width=\"29\", height=\"5\", font=\"Arial\")\nEntryBox.bind_all(\"<Key>\", _onKeyRelease, \"+\")\nscrollbar.place(x=376,y=6, height=386)\nChatLog.place(x=6,y=6, height=386, width=370)\nEntryBox.place(x=128, y=401, height=90, width=265)\nSendButton.place(x=6, y=401, height=90)\nbase.mainloop()",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "EntryBox",
+        "kind": 5,
+        "importPath": "ChatGUI.chatgui",
+        "description": "ChatGUI.chatgui",
+        "peekOfCode": "EntryBox = Text(base, bd=0, bg=\"white\",width=\"29\", height=\"5\", font=\"Arial\")\nEntryBox.bind_all(\"<Key>\", _onKeyRelease, \"+\")\nscrollbar.place(x=376,y=6, height=386)\nChatLog.place(x=6,y=6, height=386, width=370)\nEntryBox.place(x=128, y=401, height=90, width=265)\nSendButton.place(x=6, y=401, height=90)\nbase.mainloop()\n#source and resources:\n# https://www.nltk.org/\n# https://data-flair.training/",
+        "detail": "ChatGUI.chatgui",
+        "documentation": {}
+    },
+    {
+        "label": "update_figure",
+        "kind": 2,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "def update_figure(year_range, transmission_list, selectedData, n_clicks):\n    global total_clicks\n    filtered_df = df[df[\"year\"].between(year_range[0], year_range[1])\n                     & df[\"transmission\"].isin(transmission_list)]\n    fig_hist = px.histogram(\n        filtered_df,\n        x=\"fuelCost08\",\n        color=\"class_summary\",\n        labels={\"fuelCost08\": \"Annual Fuel Cost\"},\n        nbins=40,",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "app = Dash(__name__)\nstyles = {\"pre\": {\"border\": \"thin lightgrey solid\", \"overflowX\": \"scroll\"}}\nsrc_file = os.path.join(\"data\", \"raw\", \"EPA_fuel_economy_summary.csv\")\ndf = pd.read_csv(src_file)\nmin_year = df[\"year\"].min()\nmax_year = df[\"year\"].max()\nall_years = df[\"year\"].unique()\ntransmission_types = df[\"transmission\"].unique()\ndata_table_cols = [\n    \"make\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "styles",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "styles = {\"pre\": {\"border\": \"thin lightgrey solid\", \"overflowX\": \"scroll\"}}\nsrc_file = os.path.join(\"data\", \"raw\", \"EPA_fuel_economy_summary.csv\")\ndf = pd.read_csv(src_file)\nmin_year = df[\"year\"].min()\nmax_year = df[\"year\"].max()\nall_years = df[\"year\"].unique()\ntransmission_types = df[\"transmission\"].unique()\ndata_table_cols = [\n    \"make\",\n    \"model\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "src_file",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "src_file = os.path.join(\"data\", \"raw\", \"EPA_fuel_economy_summary.csv\")\ndf = pd.read_csv(src_file)\nmin_year = df[\"year\"].min()\nmax_year = df[\"year\"].max()\nall_years = df[\"year\"].unique()\ntransmission_types = df[\"transmission\"].unique()\ndata_table_cols = [\n    \"make\",\n    \"model\",\n    \"year\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "df = pd.read_csv(src_file)\nmin_year = df[\"year\"].min()\nmax_year = df[\"year\"].max()\nall_years = df[\"year\"].unique()\ntransmission_types = df[\"transmission\"].unique()\ndata_table_cols = [\n    \"make\",\n    \"model\",\n    \"year\",\n    \"transmission\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "min_year",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "min_year = df[\"year\"].min()\nmax_year = df[\"year\"].max()\nall_years = df[\"year\"].unique()\ntransmission_types = df[\"transmission\"].unique()\ndata_table_cols = [\n    \"make\",\n    \"model\",\n    \"year\",\n    \"transmission\",\n    \"drive\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "max_year",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "max_year = df[\"year\"].max()\nall_years = df[\"year\"].unique()\ntransmission_types = df[\"transmission\"].unique()\ndata_table_cols = [\n    \"make\",\n    \"model\",\n    \"year\",\n    \"transmission\",\n    \"drive\",\n    \"class_summary\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "all_years",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "all_years = df[\"year\"].unique()\ntransmission_types = df[\"transmission\"].unique()\ndata_table_cols = [\n    \"make\",\n    \"model\",\n    \"year\",\n    \"transmission\",\n    \"drive\",\n    \"class_summary\",\n    \"cylinders\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "transmission_types",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "transmission_types = df[\"transmission\"].unique()\ndata_table_cols = [\n    \"make\",\n    \"model\",\n    \"year\",\n    \"transmission\",\n    \"drive\",\n    \"class_summary\",\n    \"cylinders\",\n    \"displ\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "data_table_cols",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "data_table_cols = [\n    \"make\",\n    \"model\",\n    \"year\",\n    \"transmission\",\n    \"drive\",\n    \"class_summary\",\n    \"cylinders\",\n    \"displ\",\n    \"fuelCost08\",",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "total_clicks",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "total_clicks = 0\napp.layout = html.Div(\n    [\n        html.H1(\"Fuel Cost Analysis\"),\n        html.Div([\n            html.P(\"Talk Python Training Example\"),\n            dcc.Graph(id=\"histogram-with-slider\",\n                      config={\"displayModeBar\": False}),\n            dcc.Graph(id=\"scatter-plot\"),\n            html.Label(\"Year Range\"),",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "app.layout",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_full_app",
+        "description": "DataVisualization.dash_full_app",
+        "peekOfCode": "app.layout = html.Div(\n    [\n        html.H1(\"Fuel Cost Analysis\"),\n        html.Div([\n            html.P(\"Talk Python Training Example\"),\n            dcc.Graph(id=\"histogram-with-slider\",\n                      config={\"displayModeBar\": False}),\n            dcc.Graph(id=\"scatter-plot\"),\n            html.Label(\"Year Range\"),\n            dcc.RangeSlider(",
+        "detail": "DataVisualization.dash_full_app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_simple_app_1",
+        "description": "DataVisualization.dash_simple_app_1",
+        "peekOfCode": "app = Dash(__name__)\nsrc_file = os.path.join(\"data\", \"raw\", \"EPA_fuel_economy_summary.csv\")\ndf = pd.read_csv(src_file)\nfig = px.histogram(\n    df,\n    x=\"fuelCost08\",\n    color=\"class_summary\",\n    labels={\"fuelCost08\": \"Annual Fuel Cost\"},\n    nbins=40,\n    title=\"Fuel Cost Distribution\",",
+        "detail": "DataVisualization.dash_simple_app_1",
+        "documentation": {}
+    },
+    {
+        "label": "src_file",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_simple_app_1",
+        "description": "DataVisualization.dash_simple_app_1",
+        "peekOfCode": "src_file = os.path.join(\"data\", \"raw\", \"EPA_fuel_economy_summary.csv\")\ndf = pd.read_csv(src_file)\nfig = px.histogram(\n    df,\n    x=\"fuelCost08\",\n    color=\"class_summary\",\n    labels={\"fuelCost08\": \"Annual Fuel Cost\"},\n    nbins=40,\n    title=\"Fuel Cost Distribution\",\n)",
+        "detail": "DataVisualization.dash_simple_app_1",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_simple_app_1",
+        "description": "DataVisualization.dash_simple_app_1",
+        "peekOfCode": "df = pd.read_csv(src_file)\nfig = px.histogram(\n    df,\n    x=\"fuelCost08\",\n    color=\"class_summary\",\n    labels={\"fuelCost08\": \"Annual Fuel Cost\"},\n    nbins=40,\n    title=\"Fuel Cost Distribution\",\n)\napp.layout = html.Div(children=[",
+        "detail": "DataVisualization.dash_simple_app_1",
+        "documentation": {}
+    },
+    {
+        "label": "fig",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_simple_app_1",
+        "description": "DataVisualization.dash_simple_app_1",
+        "peekOfCode": "fig = px.histogram(\n    df,\n    x=\"fuelCost08\",\n    color=\"class_summary\",\n    labels={\"fuelCost08\": \"Annual Fuel Cost\"},\n    nbins=40,\n    title=\"Fuel Cost Distribution\",\n)\napp.layout = html.Div(children=[\n    html.H1(\"داده‌های مصرف انرژی اتومبیل‌ها\"),",
+        "detail": "DataVisualization.dash_simple_app_1",
+        "documentation": {}
+    },
+    {
+        "label": "app.layout",
+        "kind": 5,
+        "importPath": "DataVisualization.dash_simple_app_1",
+        "description": "DataVisualization.dash_simple_app_1",
+        "peekOfCode": "app.layout = html.Div(children=[\n    html.H1(\"داده‌های مصرف انرژی اتومبیل‌ها\"),\n    html.Div(\"سالیانه\"),\n    dcc.Graph(id=\"example-histogram\", figure=fig),\n])\nif __name__ == \"__main__\":\n    app.run_server(debug=True)\n# Masoud Kaviani",
+        "detail": "DataVisualization.dash_simple_app_1",
+        "documentation": {}
+    },
+    {
+        "label": "sound",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.drowsiness detection",
+        "description": "DriverDrowsinessDetection.drowsiness detection",
+        "peekOfCode": "sound = mixer.Sound('alarm.wav')\nface = cv2.CascadeClassifier('haar cascade files/haarcascade_frontalface_alt.xml')\nleye = cv2.CascadeClassifier('haar cascade files/haarcascade_lefteye_2splits.xml')\nreye = cv2.CascadeClassifier('haar cascade files/haarcascade_righteye_2splits.xml')\nlbl=['Close','Open']\nmodel = load_model('models/cnnCat2.h5')\npath = os.getcwd()\ncap = cv2.VideoCapture(0)\nfont = cv2.FONT_HERSHEY_COMPLEX_SMALL\ncount=0",
+        "detail": "DriverDrowsinessDetection.drowsiness detection",
+        "documentation": {}
+    },
+    {
+        "label": "face",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.drowsiness detection",
+        "description": "DriverDrowsinessDetection.drowsiness detection",
+        "peekOfCode": "face = cv2.CascadeClassifier('haar cascade files/haarcascade_frontalface_alt.xml')\nleye = cv2.CascadeClassifier('haar cascade files/haarcascade_lefteye_2splits.xml')\nreye = cv2.CascadeClassifier('haar cascade files/haarcascade_righteye_2splits.xml')\nlbl=['Close','Open']\nmodel = load_model('models/cnnCat2.h5')\npath = os.getcwd()\ncap = cv2.VideoCapture(0)\nfont = cv2.FONT_HERSHEY_COMPLEX_SMALL\ncount=0\nscore=0",
+        "detail": "DriverDrowsinessDetection.drowsiness detection",
+        "documentation": {}
+    },
+    {
+        "label": "leye",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.drowsiness detection",
+        "description": "DriverDrowsinessDetection.drowsiness detection",
+        "peekOfCode": "leye = cv2.CascadeClassifier('haar cascade files/haarcascade_lefteye_2splits.xml')\nreye = cv2.CascadeClassifier('haar cascade files/haarcascade_righteye_2splits.xml')\nlbl=['Close','Open']\nmodel = load_model('models/cnnCat2.h5')\npath = os.getcwd()\ncap = cv2.VideoCapture(0)\nfont = cv2.FONT_HERSHEY_COMPLEX_SMALL\ncount=0\nscore=0\nthicc=2",
+        "detail": "DriverDrowsinessDetection.drowsiness detection",
+        "documentation": {}
+    },
+    {
+        "label": "reye",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.drowsiness detection",
+        "description": "DriverDrowsinessDetection.drowsiness detection",
+        "peekOfCode": "reye = cv2.CascadeClassifier('haar cascade files/haarcascade_righteye_2splits.xml')\nlbl=['Close','Open']\nmodel = load_model('models/cnnCat2.h5')\npath = os.getcwd()\ncap = cv2.VideoCapture(0)\nfont = cv2.FONT_HERSHEY_COMPLEX_SMALL\ncount=0\nscore=0\nthicc=2\nrpred=[99]",
+        "detail": "DriverDrowsinessDetection.drowsiness detection",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.drowsiness detection",
+        "description": "DriverDrowsinessDetection.drowsiness detection",
+        "peekOfCode": "model = load_model('models/cnnCat2.h5')\npath = os.getcwd()\ncap = cv2.VideoCapture(0)\nfont = cv2.FONT_HERSHEY_COMPLEX_SMALL\ncount=0\nscore=0\nthicc=2\nrpred=[99]\nlpred=[99]\nwhile(True):",
+        "detail": "DriverDrowsinessDetection.drowsiness detection",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.drowsiness detection",
+        "description": "DriverDrowsinessDetection.drowsiness detection",
+        "peekOfCode": "path = os.getcwd()\ncap = cv2.VideoCapture(0)\nfont = cv2.FONT_HERSHEY_COMPLEX_SMALL\ncount=0\nscore=0\nthicc=2\nrpred=[99]\nlpred=[99]\nwhile(True):\n    ret, frame = cap.read()",
+        "detail": "DriverDrowsinessDetection.drowsiness detection",
+        "documentation": {}
+    },
+    {
+        "label": "cap",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.drowsiness detection",
+        "description": "DriverDrowsinessDetection.drowsiness detection",
+        "peekOfCode": "cap = cv2.VideoCapture(0)\nfont = cv2.FONT_HERSHEY_COMPLEX_SMALL\ncount=0\nscore=0\nthicc=2\nrpred=[99]\nlpred=[99]\nwhile(True):\n    ret, frame = cap.read()\n    height,width = frame.shape[:2] ",
+        "detail": "DriverDrowsinessDetection.drowsiness detection",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.drowsiness detection",
+        "description": "DriverDrowsinessDetection.drowsiness detection",
+        "peekOfCode": "font = cv2.FONT_HERSHEY_COMPLEX_SMALL\ncount=0\nscore=0\nthicc=2\nrpred=[99]\nlpred=[99]\nwhile(True):\n    ret, frame = cap.read()\n    height,width = frame.shape[:2] \n    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)",
+        "detail": "DriverDrowsinessDetection.drowsiness detection",
+        "documentation": {}
+    },
+    {
+        "label": "generator",
+        "kind": 2,
+        "importPath": "DriverDrowsinessDetection.model",
+        "description": "DriverDrowsinessDetection.model",
+        "peekOfCode": "def generator(dir, gen=image.ImageDataGenerator(rescale=1./255), shuffle=True,batch_size=1,target_size=(24,24),class_mode='categorical' ):\n    return gen.flow_from_directory(dir,batch_size=batch_size,shuffle=shuffle,color_mode='grayscale',class_mode=class_mode,target_size=target_size)\nBS= 32\nTS=(24,24)\ntrain_batch= generator('data/train',shuffle=True, batch_size=BS,target_size=TS)\nvalid_batch= generator('data/valid',shuffle=True, batch_size=BS,target_size=TS)\nSPE= len(train_batch.classes)//BS\nVS = len(valid_batch.classes)//BS\nprint(SPE,VS)\nmodel = Sequential([",
+        "detail": "DriverDrowsinessDetection.model",
+        "documentation": {}
+    },
+    {
+        "label": "VS",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.model",
+        "description": "DriverDrowsinessDetection.model",
+        "peekOfCode": "VS = len(valid_batch.classes)//BS\nprint(SPE,VS)\nmodel = Sequential([\n    Conv2D(32, kernel_size=(3, 3), activation='relu', input_shape=(24,24,1)),\n    MaxPooling2D(pool_size=(1,1)),\n    Conv2D(32,(3,3),activation='relu'),\n    MaxPooling2D(pool_size=(1,1)),\n    Conv2D(64, (3, 3), activation='relu'),\n    MaxPooling2D(pool_size=(1,1)),\n    Dropout(0.25),",
+        "detail": "DriverDrowsinessDetection.model",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "DriverDrowsinessDetection.model",
+        "description": "DriverDrowsinessDetection.model",
+        "peekOfCode": "model = Sequential([\n    Conv2D(32, kernel_size=(3, 3), activation='relu', input_shape=(24,24,1)),\n    MaxPooling2D(pool_size=(1,1)),\n    Conv2D(32,(3,3),activation='relu'),\n    MaxPooling2D(pool_size=(1,1)),\n    Conv2D(64, (3, 3), activation='relu'),\n    MaxPooling2D(pool_size=(1,1)),\n    Dropout(0.25),\n    Flatten(),\n    Dense(128, activation='relu'),",
+        "detail": "DriverDrowsinessDetection.model",
+        "documentation": {}
+    },
+    {
+        "label": "local_css",
+        "kind": 2,
+        "importPath": "FaceMaskDetection.app",
+        "description": "FaceMaskDetection.app",
+        "peekOfCode": "def local_css(file_name):\n    with open(file_name) as f:\n        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)\ndef mask_image():\n    global RGB_img\n    print(\"[INFO] loading face detector model...\")\n    prototxtPath = os.path.sep.join([\"face_detector\", \"deploy.prototxt\"])\n    weightsPath = os.path.sep.join([\"face_detector\",\n                                    \"res10_300x300_ssd_iter_140000.caffemodel\"])\n    net = cv2.dnn.readNet(prototxtPath, weightsPath)",
+        "detail": "FaceMaskDetection.app",
+        "documentation": {}
+    },
+    {
+        "label": "mask_image",
+        "kind": 2,
+        "importPath": "FaceMaskDetection.app",
+        "description": "FaceMaskDetection.app",
+        "peekOfCode": "def mask_image():\n    global RGB_img\n    print(\"[INFO] loading face detector model...\")\n    prototxtPath = os.path.sep.join([\"face_detector\", \"deploy.prototxt\"])\n    weightsPath = os.path.sep.join([\"face_detector\",\n                                    \"res10_300x300_ssd_iter_140000.caffemodel\"])\n    net = cv2.dnn.readNet(prototxtPath, weightsPath)\n    print(\"[INFO] loading face mask detector model...\")\n    model = load_model(\"mask_detector.model\")\n    image = cv2.imread(\"./images/out.jpg\")",
+        "detail": "FaceMaskDetection.app",
+        "documentation": {}
+    },
+    {
+        "label": "mask_detection",
+        "kind": 2,
+        "importPath": "FaceMaskDetection.app",
+        "description": "FaceMaskDetection.app",
+        "peekOfCode": "def mask_detection():\n    local_css(\"css/styles.css\")\n    st.markdown('<h1 align=\"center\">😷 Face Mask Detection</h1>', unsafe_allow_html=True)\n    activities = [\"Image\", \"Webcam\"]\n    st.set_option('deprecation.showfileUploaderEncoding', False)\n    st.sidebar.markdown(\"# Mask Detection on?\")\n    choice = st.sidebar.selectbox(\"Choose among the given options:\", activities)\n    if choice == 'Image':\n        st.markdown('<h2 align=\"center\">Detection on Image</h2>', unsafe_allow_html=True)\n        st.markdown(\"### Upload your image here ⬇\")",
+        "detail": "FaceMaskDetection.app",
+        "documentation": {}
+    },
+    {
+        "label": "mask_image",
+        "kind": 2,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "def mask_image():\n\tap = argparse.ArgumentParser()\n\tap.add_argument(\"-i\", \"--image\", required=True,\n\t\thelp=\"path to input image\")\n\tap.add_argument(\"-f\", \"--face\", type=str,\n\t\tdefault=\"face_detector\",\n\t\thelp=\"path to face detector model directory\")\n\tap.add_argument(\"-m\", \"--model\", type=str,\n\t\tdefault=\"mask_detector.model\",\n\t\thelp=\"path to trained face mask detector model\")",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\tap",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\tap = argparse.ArgumentParser()\n\tap.add_argument(\"-i\", \"--image\", required=True,\n\t\thelp=\"path to input image\")\n\tap.add_argument(\"-f\", \"--face\", type=str,\n\t\tdefault=\"face_detector\",\n\t\thelp=\"path to face detector model directory\")\n\tap.add_argument(\"-m\", \"--model\", type=str,\n\t\tdefault=\"mask_detector.model\",\n\t\thelp=\"path to trained face mask detector model\")\n\tap.add_argument(\"-c\", \"--confidence\", type=float, default=0.5,",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\targs",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\targs = vars(ap.parse_args())\n\tprint(\"[INFO] loading face detector model...\")\n\tprototxtPath = os.path.sep.join([args[\"face\"], \"deploy.prototxt\"])\n\tweightsPath = os.path.sep.join([args[\"face\"],\n\t\t\"res10_300x300_ssd_iter_140000.caffemodel\"])\n\tnet = cv2.dnn.readNet(prototxtPath, weightsPath)\n\tprint(\"[INFO] loading face mask detector model...\")\n\tmodel = load_model(args[\"model\"])\n\timage = cv2.imread(args[\"image\"])\n\torig = image.copy()",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\tprototxtPath",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\tprototxtPath = os.path.sep.join([args[\"face\"], \"deploy.prototxt\"])\n\tweightsPath = os.path.sep.join([args[\"face\"],\n\t\t\"res10_300x300_ssd_iter_140000.caffemodel\"])\n\tnet = cv2.dnn.readNet(prototxtPath, weightsPath)\n\tprint(\"[INFO] loading face mask detector model...\")\n\tmodel = load_model(args[\"model\"])\n\timage = cv2.imread(args[\"image\"])\n\torig = image.copy()\n\t(h, w) = image.shape[:2]\n\tblob = cv2.dnn.blobFromImage(image, 1.0, (300, 300),",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\tweightsPath",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\tweightsPath = os.path.sep.join([args[\"face\"],\n\t\t\"res10_300x300_ssd_iter_140000.caffemodel\"])\n\tnet = cv2.dnn.readNet(prototxtPath, weightsPath)\n\tprint(\"[INFO] loading face mask detector model...\")\n\tmodel = load_model(args[\"model\"])\n\timage = cv2.imread(args[\"image\"])\n\torig = image.copy()\n\t(h, w) = image.shape[:2]\n\tblob = cv2.dnn.blobFromImage(image, 1.0, (300, 300),\n\t\t(104.0, 177.0, 123.0))",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\tnet",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\tnet = cv2.dnn.readNet(prototxtPath, weightsPath)\n\tprint(\"[INFO] loading face mask detector model...\")\n\tmodel = load_model(args[\"model\"])\n\timage = cv2.imread(args[\"image\"])\n\torig = image.copy()\n\t(h, w) = image.shape[:2]\n\tblob = cv2.dnn.blobFromImage(image, 1.0, (300, 300),\n\t\t(104.0, 177.0, 123.0))\n\t# pass the blob through the network and obtain the face detections\n\tprint(\"[INFO] computing face detections...\")",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\tmodel",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\tmodel = load_model(args[\"model\"])\n\timage = cv2.imread(args[\"image\"])\n\torig = image.copy()\n\t(h, w) = image.shape[:2]\n\tblob = cv2.dnn.blobFromImage(image, 1.0, (300, 300),\n\t\t(104.0, 177.0, 123.0))\n\t# pass the blob through the network and obtain the face detections\n\tprint(\"[INFO] computing face detections...\")\n\tnet.setInput(blob)\n\tdetections = net.forward()",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\timage",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\timage = cv2.imread(args[\"image\"])\n\torig = image.copy()\n\t(h, w) = image.shape[:2]\n\tblob = cv2.dnn.blobFromImage(image, 1.0, (300, 300),\n\t\t(104.0, 177.0, 123.0))\n\t# pass the blob through the network and obtain the face detections\n\tprint(\"[INFO] computing face detections...\")\n\tnet.setInput(blob)\n\tdetections = net.forward()\n\tfor i in range(0, detections.shape[2]):",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\torig",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\torig = image.copy()\n\t(h, w) = image.shape[:2]\n\tblob = cv2.dnn.blobFromImage(image, 1.0, (300, 300),\n\t\t(104.0, 177.0, 123.0))\n\t# pass the blob through the network and obtain the face detections\n\tprint(\"[INFO] computing face detections...\")\n\tnet.setInput(blob)\n\tdetections = net.forward()\n\tfor i in range(0, detections.shape[2]):\n\t\tconfidence = detections[0, 0, i, 2]",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\tblob",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\tblob = cv2.dnn.blobFromImage(image, 1.0, (300, 300),\n\t\t(104.0, 177.0, 123.0))\n\t# pass the blob through the network and obtain the face detections\n\tprint(\"[INFO] computing face detections...\")\n\tnet.setInput(blob)\n\tdetections = net.forward()\n\tfor i in range(0, detections.shape[2]):\n\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:\n\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\tdetections",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\tdetections = net.forward()\n\tfor i in range(0, detections.shape[2]):\n\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:\n\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))\n\t\t\t(endX, endY) = (min(w - 1, endX), min(h - 1, endY))\n\t\t\tface = image[startY:endY, startX:endX]\n\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tconfidence",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:\n\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))\n\t\t\t(endX, endY) = (min(w - 1, endX), min(h - 1, endY))\n\t\t\tface = image[startY:endY, startX:endX]\n\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)\n\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\tface = img_to_array(face)",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tbox",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))\n\t\t\t(endX, endY) = (min(w - 1, endX), min(h - 1, endY))\n\t\t\tface = image[startY:endY, startX:endX]\n\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)\n\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\tface = img_to_array(face)\n\t\t\tface = preprocess_input(face)\n\t\t\tface = np.expand_dims(face, axis=0)",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tface = image[startY:endY, startX:endX]\n\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)\n\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\tface = img_to_array(face)\n\t\t\tface = preprocess_input(face)\n\t\t\tface = np.expand_dims(face, axis=0)\n\t\t\t(mask, withoutMask) = model.predict(face)[0]\n\t\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)\n\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\tface = img_to_array(face)\n\t\t\tface = preprocess_input(face)\n\t\t\tface = np.expand_dims(face, axis=0)\n\t\t\t(mask, withoutMask) = model.predict(face)[0]\n\t\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\t\tcv2.putText(image, label, (startX, startY - 10),",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\tface = img_to_array(face)\n\t\t\tface = preprocess_input(face)\n\t\t\tface = np.expand_dims(face, axis=0)\n\t\t\t(mask, withoutMask) = model.predict(face)[0]\n\t\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\t\tcv2.putText(image, label, (startX, startY - 10),\n\t\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tface = img_to_array(face)\n\t\t\tface = preprocess_input(face)\n\t\t\tface = np.expand_dims(face, axis=0)\n\t\t\t(mask, withoutMask) = model.predict(face)[0]\n\t\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\t\tcv2.putText(image, label, (startX, startY - 10),\n\t\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\t\tcv2.rectangle(image, (startX, startY), (endX, endY), color, 2)",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tface = preprocess_input(face)\n\t\t\tface = np.expand_dims(face, axis=0)\n\t\t\t(mask, withoutMask) = model.predict(face)[0]\n\t\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\t\tcv2.putText(image, label, (startX, startY - 10),\n\t\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\t\tcv2.rectangle(image, (startX, startY), (endX, endY), color, 2)\n\tcv2.imshow(\"Output\", image)",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tface = np.expand_dims(face, axis=0)\n\t\t\t(mask, withoutMask) = model.predict(face)[0]\n\t\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\t\tcv2.putText(image, label, (startX, startY - 10),\n\t\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\t\tcv2.rectangle(image, (startX, startY), (endX, endY), color, 2)\n\tcv2.imshow(\"Output\", image)\n\tcv2.waitKey(0)",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tlabel",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\t\tcv2.putText(image, label, (startX, startY - 10),\n\t\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\t\tcv2.rectangle(image, (startX, startY), (endX, endY), color, 2)\n\tcv2.imshow(\"Output\", image)\n\tcv2.waitKey(0)\nif __name__ == \"__main__\":\n\tmask_image()",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tcolor",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\t\tcv2.putText(image, label, (startX, startY - 10),\n\t\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\t\tcv2.rectangle(image, (startX, startY), (endX, endY), color, 2)\n\tcv2.imshow(\"Output\", image)\n\tcv2.waitKey(0)\nif __name__ == \"__main__\":\n\tmask_image()",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tlabel",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_image",
+        "description": "FaceMaskDetection.detect_mask_image",
+        "peekOfCode": "\t\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\t\tcv2.putText(image, label, (startX, startY - 10),\n\t\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\t\tcv2.rectangle(image, (startX, startY), (endX, endY), color, 2)\n\tcv2.imshow(\"Output\", image)\n\tcv2.waitKey(0)\nif __name__ == \"__main__\":\n\tmask_image()",
+        "detail": "FaceMaskDetection.detect_mask_image",
+        "documentation": {}
+    },
+    {
+        "label": "detect_and_predict_mask",
+        "kind": 2,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "def detect_and_predict_mask(frame, faceNet, maskNet):\n\t(h, w) = frame.shape[:2]\n\tblob = cv2.dnn.blobFromImage(frame, 1.0, (300, 300),\n\t\t(104.0, 177.0, 123.0))\n\tfaceNet.setInput(blob)\n\tdetections = faceNet.forward()\n\tfaces = []\n\tlocs = []\n\tpreds = []\n\tfor i in range(0, detections.shape[2]):",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\tblob",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\tblob = cv2.dnn.blobFromImage(frame, 1.0, (300, 300),\n\t\t(104.0, 177.0, 123.0))\n\tfaceNet.setInput(blob)\n\tdetections = faceNet.forward()\n\tfaces = []\n\tlocs = []\n\tpreds = []\n\tfor i in range(0, detections.shape[2]):\n\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\tdetections",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\tdetections = faceNet.forward()\n\tfaces = []\n\tlocs = []\n\tpreds = []\n\tfor i in range(0, detections.shape[2]):\n\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:\n\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\tfaces",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\tfaces = []\n\tlocs = []\n\tpreds = []\n\tfor i in range(0, detections.shape[2]):\n\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:\n\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))\n\t\t\t(endX, endY) = (min(w - 1, endX), min(h - 1, endY))",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\tlocs",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\tlocs = []\n\tpreds = []\n\tfor i in range(0, detections.shape[2]):\n\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:\n\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))\n\t\t\t(endX, endY) = (min(w - 1, endX), min(h - 1, endY))\n\t\t\tface = frame[startY:endY, startX:endX]",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\tpreds",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\tpreds = []\n\tfor i in range(0, detections.shape[2]):\n\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:\n\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))\n\t\t\t(endX, endY) = (min(w - 1, endX), min(h - 1, endY))\n\t\t\tface = frame[startY:endY, startX:endX]\n\t\t\tif face.any():",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tconfidence",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\tconfidence = detections[0, 0, i, 2]\n\t\tif confidence > args[\"confidence\"]:\n\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))\n\t\t\t(endX, endY) = (min(w - 1, endX), min(h - 1, endY))\n\t\t\tface = frame[startY:endY, startX:endX]\n\t\t\tif face.any():\n\t\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)\n\t\t\t\tface = cv2.resize(face, (224, 224))",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tbox",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\t\tbox = detections[0, 0, i, 3:7] * np.array([w, h, w, h])\n\t\t\t(startX, startY, endX, endY) = box.astype(\"int\")\n\t\t\t(startX, startY) = (max(0, startX), max(0, startY))\n\t\t\t(endX, endY) = (min(w - 1, endX), min(h - 1, endY))\n\t\t\tface = frame[startY:endY, startX:endX]\n\t\t\tif face.any():\n\t\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)\n\t\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\t\tface = img_to_array(face)\n\t\t\t\tface = preprocess_input(face)",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\t\tface = frame[startY:endY, startX:endX]\n\t\t\tif face.any():\n\t\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)\n\t\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\t\tface = img_to_array(face)\n\t\t\t\tface = preprocess_input(face)\n\t\t\t\tfaces.append(face)\n\t\t\t\tlocs.append((startX, startY, endX, endY))\n\tif len(faces) > 0:\n\t\tfaces = np.array(faces, dtype=\"float32\")",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\t\t\tface = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)\n\t\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\t\tface = img_to_array(face)\n\t\t\t\tface = preprocess_input(face)\n\t\t\t\tfaces.append(face)\n\t\t\t\tlocs.append((startX, startY, endX, endY))\n\tif len(faces) > 0:\n\t\tfaces = np.array(faces, dtype=\"float32\")\n\t\tpreds = maskNet.predict(faces, batch_size=32)\n\treturn (locs, preds)",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\t\t\tface = cv2.resize(face, (224, 224))\n\t\t\t\tface = img_to_array(face)\n\t\t\t\tface = preprocess_input(face)\n\t\t\t\tfaces.append(face)\n\t\t\t\tlocs.append((startX, startY, endX, endY))\n\tif len(faces) > 0:\n\t\tfaces = np.array(faces, dtype=\"float32\")\n\t\tpreds = maskNet.predict(faces, batch_size=32)\n\treturn (locs, preds)\nap = argparse.ArgumentParser()",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\t\t\tface = img_to_array(face)\n\t\t\t\tface = preprocess_input(face)\n\t\t\t\tfaces.append(face)\n\t\t\t\tlocs.append((startX, startY, endX, endY))\n\tif len(faces) > 0:\n\t\tfaces = np.array(faces, dtype=\"float32\")\n\t\tpreds = maskNet.predict(faces, batch_size=32)\n\treturn (locs, preds)\nap = argparse.ArgumentParser()\nap.add_argument(\"-f\", \"--face\", type=str,",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tface",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\t\t\tface = preprocess_input(face)\n\t\t\t\tfaces.append(face)\n\t\t\t\tlocs.append((startX, startY, endX, endY))\n\tif len(faces) > 0:\n\t\tfaces = np.array(faces, dtype=\"float32\")\n\t\tpreds = maskNet.predict(faces, batch_size=32)\n\treturn (locs, preds)\nap = argparse.ArgumentParser()\nap.add_argument(\"-f\", \"--face\", type=str,\n\tdefault=\"face_detector\",",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfaces",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\tfaces = np.array(faces, dtype=\"float32\")\n\t\tpreds = maskNet.predict(faces, batch_size=32)\n\treturn (locs, preds)\nap = argparse.ArgumentParser()\nap.add_argument(\"-f\", \"--face\", type=str,\n\tdefault=\"face_detector\",\n\thelp=\"path to face detector model directory\")\nap.add_argument(\"-m\", \"--model\", type=str,\n\tdefault=\"mask_detector.model\",\n\thelp=\"path to trained face mask detector model\")",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpreds",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\tpreds = maskNet.predict(faces, batch_size=32)\n\treturn (locs, preds)\nap = argparse.ArgumentParser()\nap.add_argument(\"-f\", \"--face\", type=str,\n\tdefault=\"face_detector\",\n\thelp=\"path to face detector model directory\")\nap.add_argument(\"-m\", \"--model\", type=str,\n\tdefault=\"mask_detector.model\",\n\thelp=\"path to trained face mask detector model\")\nap.add_argument(\"-c\", \"--confidence\", type=float, default=0.5,",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "ap",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "ap = argparse.ArgumentParser()\nap.add_argument(\"-f\", \"--face\", type=str,\n\tdefault=\"face_detector\",\n\thelp=\"path to face detector model directory\")\nap.add_argument(\"-m\", \"--model\", type=str,\n\tdefault=\"mask_detector.model\",\n\thelp=\"path to trained face mask detector model\")\nap.add_argument(\"-c\", \"--confidence\", type=float, default=0.5,\n\thelp=\"minimum probability to filter weak detections\")\nargs = vars(ap.parse_args())",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "args = vars(ap.parse_args())\nprint(\"[INFO] loading face detector model...\")\nprototxtPath = os.path.sep.join([args[\"face\"], \"deploy.prototxt\"])\nweightsPath = os.path.sep.join([args[\"face\"],\n\t\"res10_300x300_ssd_iter_140000.caffemodel\"])\nfaceNet = cv2.dnn.readNet(prototxtPath, weightsPath)\nprint(\"[INFO] loading face mask detector model...\")\nmaskNet = load_model(args[\"model\"])\nprint(\"[INFO] starting video stream...\")\nvs = VideoStream(src=0).start()",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "prototxtPath",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "prototxtPath = os.path.sep.join([args[\"face\"], \"deploy.prototxt\"])\nweightsPath = os.path.sep.join([args[\"face\"],\n\t\"res10_300x300_ssd_iter_140000.caffemodel\"])\nfaceNet = cv2.dnn.readNet(prototxtPath, weightsPath)\nprint(\"[INFO] loading face mask detector model...\")\nmaskNet = load_model(args[\"model\"])\nprint(\"[INFO] starting video stream...\")\nvs = VideoStream(src=0).start()\ntime.sleep(2.0)\nwhile True:",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "weightsPath",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "weightsPath = os.path.sep.join([args[\"face\"],\n\t\"res10_300x300_ssd_iter_140000.caffemodel\"])\nfaceNet = cv2.dnn.readNet(prototxtPath, weightsPath)\nprint(\"[INFO] loading face mask detector model...\")\nmaskNet = load_model(args[\"model\"])\nprint(\"[INFO] starting video stream...\")\nvs = VideoStream(src=0).start()\ntime.sleep(2.0)\nwhile True:\n\tframe = vs.read()",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "faceNet",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "faceNet = cv2.dnn.readNet(prototxtPath, weightsPath)\nprint(\"[INFO] loading face mask detector model...\")\nmaskNet = load_model(args[\"model\"])\nprint(\"[INFO] starting video stream...\")\nvs = VideoStream(src=0).start()\ntime.sleep(2.0)\nwhile True:\n\tframe = vs.read()\n\tframe = imutils.resize(frame, width=400)\n\t(locs, preds) = detect_and_predict_mask(frame, faceNet, maskNet)",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "maskNet",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "maskNet = load_model(args[\"model\"])\nprint(\"[INFO] starting video stream...\")\nvs = VideoStream(src=0).start()\ntime.sleep(2.0)\nwhile True:\n\tframe = vs.read()\n\tframe = imutils.resize(frame, width=400)\n\t(locs, preds) = detect_and_predict_mask(frame, faceNet, maskNet)\n\tfor (box, pred) in zip(locs, preds):\n\t\t(startX, startY, endX, endY) = box",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "vs",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "vs = VideoStream(src=0).start()\ntime.sleep(2.0)\nwhile True:\n\tframe = vs.read()\n\tframe = imutils.resize(frame, width=400)\n\t(locs, preds) = detect_and_predict_mask(frame, faceNet, maskNet)\n\tfor (box, pred) in zip(locs, preds):\n\t\t(startX, startY, endX, endY) = box\n\t\t(mask, withoutMask) = pred\n\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\tframe",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\tframe = vs.read()\n\tframe = imutils.resize(frame, width=400)\n\t(locs, preds) = detect_and_predict_mask(frame, faceNet, maskNet)\n\tfor (box, pred) in zip(locs, preds):\n\t\t(startX, startY, endX, endY) = box\n\t\t(mask, withoutMask) = pred\n\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\tcv2.putText(frame, label, (startX, startY - 10),",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\tframe",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\tframe = imutils.resize(frame, width=400)\n\t(locs, preds) = detect_and_predict_mask(frame, faceNet, maskNet)\n\tfor (box, pred) in zip(locs, preds):\n\t\t(startX, startY, endX, endY) = box\n\t\t(mask, withoutMask) = pred\n\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\tcv2.putText(frame, label, (startX, startY - 10),\n\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlabel",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\tlabel = \"Mask\" if mask > withoutMask else \"No Mask\"\n\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\tcv2.putText(frame, label, (startX, startY - 10),\n\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\tcv2.rectangle(frame, (startX, startY), (endX, endY), color, 2)\n\tcv2.imshow(\"Frame\", frame)\n\tkey = cv2.waitKey(1) & 0xFF\n\tif key == ord(\"q\"):\n\t\tbreak",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcolor",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\tcolor = (0, 255, 0) if label == \"Mask\" else (0, 0, 255)\n\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\tcv2.putText(frame, label, (startX, startY - 10),\n\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\tcv2.rectangle(frame, (startX, startY), (endX, endY), color, 2)\n\tcv2.imshow(\"Frame\", frame)\n\tkey = cv2.waitKey(1) & 0xFF\n\tif key == ord(\"q\"):\n\t\tbreak\ncv2.destroyAllWindows()",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlabel",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\t\tlabel = \"{}: {:.2f}%\".format(label, max(mask, withoutMask) * 100)\n\t\tcv2.putText(frame, label, (startX, startY - 10),\n\t\t\tcv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 2)\n\t\tcv2.rectangle(frame, (startX, startY), (endX, endY), color, 2)\n\tcv2.imshow(\"Frame\", frame)\n\tkey = cv2.waitKey(1) & 0xFF\n\tif key == ord(\"q\"):\n\t\tbreak\ncv2.destroyAllWindows()\nvs.stop()",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "\tkey",
+        "kind": 5,
+        "importPath": "FaceMaskDetection.detect_mask_video",
+        "description": "FaceMaskDetection.detect_mask_video",
+        "peekOfCode": "\tkey = cv2.waitKey(1) & 0xFF\n\tif key == ord(\"q\"):\n\t\tbreak\ncv2.destroyAllWindows()\nvs.stop()",
+        "detail": "FaceMaskDetection.detect_mask_video",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.Image.image_resizer",
+        "description": "section01_python_for_machine_learning.Image.image_resizer",
+        "peekOfCode": "img = cv2.imread('photo1.jpg')\nprint(img.shape)\nwidth = int(img.shape[1] / 5)\nheight = int(img.shape[0] / 5)\nscaled_img = cv2.resize(img, (width, height), interpolation=cv2.INTER_AREA)\ncv2.imwrite('scaled_photo1.jpg', scaled_img)",
+        "detail": "section01_python_for_machine_learning.Image.image_resizer",
+        "documentation": {}
+    },
+    {
+        "label": "width",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.Image.image_resizer",
+        "description": "section01_python_for_machine_learning.Image.image_resizer",
+        "peekOfCode": "width = int(img.shape[1] / 5)\nheight = int(img.shape[0] / 5)\nscaled_img = cv2.resize(img, (width, height), interpolation=cv2.INTER_AREA)\ncv2.imwrite('scaled_photo1.jpg', scaled_img)",
+        "detail": "section01_python_for_machine_learning.Image.image_resizer",
+        "documentation": {}
+    },
+    {
+        "label": "height",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.Image.image_resizer",
+        "description": "section01_python_for_machine_learning.Image.image_resizer",
+        "peekOfCode": "height = int(img.shape[0] / 5)\nscaled_img = cv2.resize(img, (width, height), interpolation=cv2.INTER_AREA)\ncv2.imwrite('scaled_photo1.jpg', scaled_img)",
+        "detail": "section01_python_for_machine_learning.Image.image_resizer",
+        "documentation": {}
+    },
+    {
+        "label": "scaled_img",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.Image.image_resizer",
+        "description": "section01_python_for_machine_learning.Image.image_resizer",
+        "peekOfCode": "scaled_img = cv2.resize(img, (width, height), interpolation=cv2.INTER_AREA)\ncv2.imwrite('scaled_photo1.jpg', scaled_img)",
+        "detail": "section01_python_for_machine_learning.Image.image_resizer",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.Image.image_watermark",
+        "description": "section01_python_for_machine_learning.Image.image_watermark",
+        "peekOfCode": "img = Image.open('photo1.jpg')\nimg_draw = ImageDraw.Draw(img)\nimg_draw.text((28, 36), \"7learn.com\", fill=(255, 0, 0))\nimg.save('photo1w.jpg')",
+        "detail": "section01_python_for_machine_learning.Image.image_watermark",
+        "documentation": {}
+    },
+    {
+        "label": "img_draw",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.Image.image_watermark",
+        "description": "section01_python_for_machine_learning.Image.image_watermark",
+        "peekOfCode": "img_draw = ImageDraw.Draw(img)\nimg_draw.text((28, 36), \"7learn.com\", fill=(255, 0, 0))\nimg.save('photo1w.jpg')",
+        "detail": "section01_python_for_machine_learning.Image.image_watermark",
+        "documentation": {}
+    },
+    {
+        "label": "random_problem",
+        "kind": 2,
+        "importPath": "section01_python_for_machine_learning.MathGame.game",
+        "description": "section01_python_for_machine_learning.MathGame.game",
+        "peekOfCode": "def random_problem():\n    operators = {\n        '+': operator.add,\n        '-': operator.sub,\n        '*': operator.mul,\n        '/': operator.truediv \n    }\n    n1 = random.randint(1, 10)\n    n2 = random.randint(1, 10)\n    op = random.choice(list(operators.keys()))",
+        "detail": "section01_python_for_machine_learning.MathGame.game",
+        "documentation": {}
+    },
+    {
+        "label": "ask_question",
+        "kind": 2,
+        "importPath": "section01_python_for_machine_learning.MathGame.game",
+        "description": "section01_python_for_machine_learning.MathGame.game",
+        "peekOfCode": "def ask_question():\n    answer = random_problem()\n    canswer = float(input(''))\n    return answer == canswer\nscore = 0\nwhile True:\n    if ask_question():\n        score += 1\n        print('OK!')\n    else:",
+        "detail": "section01_python_for_machine_learning.MathGame.game",
+        "documentation": {}
+    },
+    {
+        "label": "score",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.MathGame.game",
+        "description": "section01_python_for_machine_learning.MathGame.game",
+        "peekOfCode": "score = 0\nwhile True:\n    if ask_question():\n        score += 1\n        print('OK!')\n    else:\n        print('NOK!')\n        break\nprint('GAME OVER!!!')\nprint(f'SCORE: {score}')",
+        "detail": "section01_python_for_machine_learning.MathGame.game",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "description": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "peekOfCode": "c = input('Please enter number of chars: ')\nt = string.ascii_letters + string.digits\npassword = ''.join(random.sample(t+t+t, int(c)))\nprint(password)",
+        "detail": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "description": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "peekOfCode": "t = string.ascii_letters + string.digits\npassword = ''.join(random.sample(t+t+t, int(c)))\nprint(password)",
+        "detail": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "description": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "peekOfCode": "password = ''.join(random.sample(t+t+t, int(c)))\nprint(password)",
+        "detail": "section01_python_for_machine_learning.PasswordGenerator.generate",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.WakeupClock.wuc",
+        "description": "section01_python_for_machine_learning.WakeupClock.wuc",
+        "peekOfCode": "t = int(input('Please Enter the Time in Seconds: '))\nprint(t)\ntime.sleep(t)\nfor i in range(3):\n    winsound.Beep(2500, (i+1)*1000)\nprint('goodbye')",
+        "detail": "section01_python_for_machine_learning.WakeupClock.wuc",
+        "documentation": {}
+    },
+    {
+        "label": "start_beep",
+        "kind": 2,
+        "importPath": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "description": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "peekOfCode": "def start_beep(secs):\n    for i in range(int(secs)):\n        winsound.Beep(2500, (i+1)*1000)\ndef counter(t):\n    while t > 0:\n        mins, secs = divmod(t, 60)\n        if len(str(secs)) == 1:\n            secs = '0' + str(secs)\n        timer = str(mins) + ':' + str(secs)\n        print(timer, end='\\r')",
+        "detail": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "documentation": {}
+    },
+    {
+        "label": "counter",
+        "kind": 2,
+        "importPath": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "description": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "peekOfCode": "def counter(t):\n    while t > 0:\n        mins, secs = divmod(t, 60)\n        if len(str(secs)) == 1:\n            secs = '0' + str(secs)\n        timer = str(mins) + ':' + str(secs)\n        print(timer, end='\\r')\n        time.sleep(1)\n        t = t-1\nt = int(input('Please Enter the Time in Seconds: '))",
+        "detail": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "description": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "peekOfCode": "t = int(input('Please Enter the Time in Seconds: '))\ncounter(t)\nstart_beep(3)\nprint('WakeUp')",
+        "detail": "section01_python_for_machine_learning.WakeupClock.wuc_v2",
+        "documentation": {}
+    },
+    {
+        "label": "x1",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.01-variables",
+        "description": "section01_python_for_machine_learning.01-variables",
+        "peekOfCode": "x1 = 5\nk2 = 10.3\ns9 = \"salam\"\nx_1 = 10\nx1 = \"goodby\"\nprint(x1)\nprint(s9)\nprint(x_1)\nprint(type(k2))",
+        "detail": "section01_python_for_machine_learning.01-variables",
+        "documentation": {}
+    },
+    {
+        "label": "k2",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.01-variables",
+        "description": "section01_python_for_machine_learning.01-variables",
+        "peekOfCode": "k2 = 10.3\ns9 = \"salam\"\nx_1 = 10\nx1 = \"goodby\"\nprint(x1)\nprint(s9)\nprint(x_1)\nprint(type(k2))",
+        "detail": "section01_python_for_machine_learning.01-variables",
+        "documentation": {}
+    },
+    {
+        "label": "s9",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.01-variables",
+        "description": "section01_python_for_machine_learning.01-variables",
+        "peekOfCode": "s9 = \"salam\"\nx_1 = 10\nx1 = \"goodby\"\nprint(x1)\nprint(s9)\nprint(x_1)\nprint(type(k2))",
+        "detail": "section01_python_for_machine_learning.01-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x_1",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.01-variables",
+        "description": "section01_python_for_machine_learning.01-variables",
+        "peekOfCode": "x_1 = 10\nx1 = \"goodby\"\nprint(x1)\nprint(s9)\nprint(x_1)\nprint(type(k2))",
+        "detail": "section01_python_for_machine_learning.01-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x1",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.01-variables",
+        "description": "section01_python_for_machine_learning.01-variables",
+        "peekOfCode": "x1 = \"goodby\"\nprint(x1)\nprint(s9)\nprint(x_1)\nprint(type(k2))",
+        "detail": "section01_python_for_machine_learning.01-variables",
+        "documentation": {}
+    },
+    {
+        "label": "first_number",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.02-variables",
+        "description": "section01_python_for_machine_learning.02-variables",
+        "peekOfCode": "first_number = 18\nsecond_number = 20\nx = first_number + second_number\nprint(x)\nprint(first_number * second_number / x)\nfirst_string = \"masoud\"\nsecond_string = \"kaviani\"\nprint(first_string + \" \" + second_string)\ny = first_string / second_string\nprint(y)",
+        "detail": "section01_python_for_machine_learning.02-variables",
+        "documentation": {}
+    },
+    {
+        "label": "second_number",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.02-variables",
+        "description": "section01_python_for_machine_learning.02-variables",
+        "peekOfCode": "second_number = 20\nx = first_number + second_number\nprint(x)\nprint(first_number * second_number / x)\nfirst_string = \"masoud\"\nsecond_string = \"kaviani\"\nprint(first_string + \" \" + second_string)\ny = first_string / second_string\nprint(y)",
+        "detail": "section01_python_for_machine_learning.02-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.02-variables",
+        "description": "section01_python_for_machine_learning.02-variables",
+        "peekOfCode": "x = first_number + second_number\nprint(x)\nprint(first_number * second_number / x)\nfirst_string = \"masoud\"\nsecond_string = \"kaviani\"\nprint(first_string + \" \" + second_string)\ny = first_string / second_string\nprint(y)",
+        "detail": "section01_python_for_machine_learning.02-variables",
+        "documentation": {}
+    },
+    {
+        "label": "first_string",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.02-variables",
+        "description": "section01_python_for_machine_learning.02-variables",
+        "peekOfCode": "first_string = \"masoud\"\nsecond_string = \"kaviani\"\nprint(first_string + \" \" + second_string)\ny = first_string / second_string\nprint(y)",
+        "detail": "section01_python_for_machine_learning.02-variables",
+        "documentation": {}
+    },
+    {
+        "label": "second_string",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.02-variables",
+        "description": "section01_python_for_machine_learning.02-variables",
+        "peekOfCode": "second_string = \"kaviani\"\nprint(first_string + \" \" + second_string)\ny = first_string / second_string\nprint(y)",
+        "detail": "section01_python_for_machine_learning.02-variables",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.02-variables",
+        "description": "section01_python_for_machine_learning.02-variables",
+        "peekOfCode": "y = first_string / second_string\nprint(y)",
+        "detail": "section01_python_for_machine_learning.02-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x2",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.03-variables",
+        "description": "section01_python_for_machine_learning.03-variables",
+        "peekOfCode": "x2 = ['saeed', 'farzaneh', 'mohsen', 'ali', 100, 30.1, [1, 2, 3]]\nprint(x2)\nprint(x2[0])\nprint(x2[3])\nprint(x2[-1])\nprint(x2[5])\nprint(x2[1:3])\nprint(x2[2:])\nx2[2] = 20\nprint(x2)",
+        "detail": "section01_python_for_machine_learning.03-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x2[2]",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.03-variables",
+        "description": "section01_python_for_machine_learning.03-variables",
+        "peekOfCode": "x2[2] = 20\nprint(x2)\nx2.append('kaviani')\nprint(x2)\nx2.remove('ali')\nprint(x2)",
+        "detail": "section01_python_for_machine_learning.03-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x2",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.04-variables",
+        "description": "section01_python_for_machine_learning.04-variables",
+        "peekOfCode": "x2 = ('salam', 'goodby', 20, 1.5)\nprint(x2)\nprint(type(x2))\n# x2[1] = 12\nx3 = {'salam', 'goodby', 20, 20}\nprint(x3)\nprint(type(x3))\nx4 = {'masoud': 'kaviani', 'ali': 'karimi', 'abbass': 'kaviani'}\nprint(x4)\nprint(type(x4))",
+        "detail": "section01_python_for_machine_learning.04-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x3",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.04-variables",
+        "description": "section01_python_for_machine_learning.04-variables",
+        "peekOfCode": "x3 = {'salam', 'goodby', 20, 20}\nprint(x3)\nprint(type(x3))\nx4 = {'masoud': 'kaviani', 'ali': 'karimi', 'abbass': 'kaviani'}\nprint(x4)\nprint(type(x4))\nprint(x4['masoud'])\nx5 = {'kaviani': 18, 'karimi': 20, 'saeidi': 15}\nprint(x5['saeidi'])",
+        "detail": "section01_python_for_machine_learning.04-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x4",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.04-variables",
+        "description": "section01_python_for_machine_learning.04-variables",
+        "peekOfCode": "x4 = {'masoud': 'kaviani', 'ali': 'karimi', 'abbass': 'kaviani'}\nprint(x4)\nprint(type(x4))\nprint(x4['masoud'])\nx5 = {'kaviani': 18, 'karimi': 20, 'saeidi': 15}\nprint(x5['saeidi'])",
+        "detail": "section01_python_for_machine_learning.04-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x5",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.04-variables",
+        "description": "section01_python_for_machine_learning.04-variables",
+        "peekOfCode": "x5 = {'kaviani': 18, 'karimi': 20, 'saeidi': 15}\nprint(x5['saeidi'])",
+        "detail": "section01_python_for_machine_learning.04-variables",
+        "documentation": {}
+    },
+    {
+        "label": "x2",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.05-conditions",
+        "description": "section01_python_for_machine_learning.05-conditions",
+        "peekOfCode": "x2 = 9\nprint(x2 > 15)\nif x2 > 15:\n    print('ok')\n    print('ok2')\nelse:\n    print('nok')",
+        "detail": "section01_python_for_machine_learning.05-conditions",
+        "documentation": {}
+    },
+    {
+        "label": "x2",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.06-conditions",
+        "description": "section01_python_for_machine_learning.06-conditions",
+        "peekOfCode": "x2 = int(input('Please enter a number: '))\nprint(x2 > 15)\nif x2 > 15:\n    print('ok')\n    print('ok2')\nelse:\n    print('nok')\nif x2 == 20:\n    if x2 > 19:\n        print('################')",
+        "detail": "section01_python_for_machine_learning.06-conditions",
+        "documentation": {}
+    },
+    {
+        "label": "x2",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.07-conditions",
+        "description": "section01_python_for_machine_learning.07-conditions",
+        "peekOfCode": "x2 = int(input('Please enter a number: '))\npassword = input('Please enter the password: ')\nif password == 'jgsh78uhb' and not (x2 > 18):\n    print('OK, you passed')\nelif password == 'jgsh78uhb' and x2 > 14:\n    print('OK, you passed napeloni')\nelse:\n    print('NO, you have not passed the exam')",
+        "detail": "section01_python_for_machine_learning.07-conditions",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.07-conditions",
+        "description": "section01_python_for_machine_learning.07-conditions",
+        "peekOfCode": "password = input('Please enter the password: ')\nif password == 'jgsh78uhb' and not (x2 > 18):\n    print('OK, you passed')\nelif password == 'jgsh78uhb' and x2 > 14:\n    print('OK, you passed napeloni')\nelse:\n    print('NO, you have not passed the exam')",
+        "detail": "section01_python_for_machine_learning.07-conditions",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.08-loops",
+        "description": "section01_python_for_machine_learning.08-loops",
+        "peekOfCode": "l = ['kaviani', 'karami', 'jalili', 'tavakoli']\nfor x in l:\n    print('Hello', x)\nfor x in range(0, 100):\n    x2 = x ** 2\n    print(x2)",
+        "detail": "section01_python_for_machine_learning.08-loops",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.09-loops",
+        "description": "section01_python_for_machine_learning.09-loops",
+        "peekOfCode": "x = 30\nwhile x > 20:\n    print(x)\n    x = x - 1\nprint('GoodBye')",
+        "detail": "section01_python_for_machine_learning.09-loops",
+        "documentation": {}
+    },
+    {
+        "label": "say_hello",
+        "kind": 2,
+        "importPath": "section01_python_for_machine_learning.10-function",
+        "description": "section01_python_for_machine_learning.10-function",
+        "peekOfCode": "def say_hello():\n    print('hello')\n    print('goodbye')\ni = 10\nj = 20\nsay_hello()\nprint('last line')",
+        "detail": "section01_python_for_machine_learning.10-function",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.10-function",
+        "description": "section01_python_for_machine_learning.10-function",
+        "peekOfCode": "i = 10\nj = 20\nsay_hello()\nprint('last line')",
+        "detail": "section01_python_for_machine_learning.10-function",
+        "documentation": {}
+    },
+    {
+        "label": "j",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.10-function",
+        "description": "section01_python_for_machine_learning.10-function",
+        "peekOfCode": "j = 20\nsay_hello()\nprint('last line')",
+        "detail": "section01_python_for_machine_learning.10-function",
+        "documentation": {}
+    },
+    {
+        "label": "say_hello",
+        "kind": 2,
+        "importPath": "section01_python_for_machine_learning.11-function",
+        "description": "section01_python_for_machine_learning.11-function",
+        "peekOfCode": "def say_hello(first_name, last_name):\n    print('hello', first_name)\n    print('goodbye', last_name)\ni = 10\nj = 20\nsay_hello('Masoud', 'Kaviani')\nprint('last line')\ndef get_age(name, family='kaviani'):\n    if name == 'Masoud':\n        return 31",
+        "detail": "section01_python_for_machine_learning.11-function",
+        "documentation": {}
+    },
+    {
+        "label": "get_age",
+        "kind": 2,
+        "importPath": "section01_python_for_machine_learning.11-function",
+        "description": "section01_python_for_machine_learning.11-function",
+        "peekOfCode": "def get_age(name, family='kaviani'):\n    if name == 'Masoud':\n        return 31\n    elif name == 'Tavakoli':\n        return 28\n    else:\n        return -1\nage = get_age('Ali')\nprint(age)",
+        "detail": "section01_python_for_machine_learning.11-function",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.11-function",
+        "description": "section01_python_for_machine_learning.11-function",
+        "peekOfCode": "i = 10\nj = 20\nsay_hello('Masoud', 'Kaviani')\nprint('last line')\ndef get_age(name, family='kaviani'):\n    if name == 'Masoud':\n        return 31\n    elif name == 'Tavakoli':\n        return 28\n    else:",
+        "detail": "section01_python_for_machine_learning.11-function",
+        "documentation": {}
+    },
+    {
+        "label": "j",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.11-function",
+        "description": "section01_python_for_machine_learning.11-function",
+        "peekOfCode": "j = 20\nsay_hello('Masoud', 'Kaviani')\nprint('last line')\ndef get_age(name, family='kaviani'):\n    if name == 'Masoud':\n        return 31\n    elif name == 'Tavakoli':\n        return 28\n    else:\n        return -1",
+        "detail": "section01_python_for_machine_learning.11-function",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.11-function",
+        "description": "section01_python_for_machine_learning.11-function",
+        "peekOfCode": "age = get_age('Ali')\nprint(age)",
+        "detail": "section01_python_for_machine_learning.11-function",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "section01_python_for_machine_learning.12-class",
+        "description": "section01_python_for_machine_learning.12-class",
+        "peekOfCode": "class Person:\n    def __init__(self, first_name, last_name):\n        self.first_name = first_name\n        self.last_name = last_name\n    def set_first_name(self, first_name):\n        self.first_name = first_name\n        return True\n    def return_last_name(self):\n        return self.last_name\np1 = Person(\"Masoud\", \"Kaviani\")",
+        "detail": "section01_python_for_machine_learning.12-class",
+        "documentation": {}
+    },
+    {
+        "label": "p1",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.12-class",
+        "description": "section01_python_for_machine_learning.12-class",
+        "peekOfCode": "p1 = Person(\"Masoud\", \"Kaviani\")\np2 = Person(\"Ali\", \"Karimi\")\nln = p1.return_last_name()\nln2 = p2.return_last_name()\nprint(ln)\nprint(ln2)",
+        "detail": "section01_python_for_machine_learning.12-class",
+        "documentation": {}
+    },
+    {
+        "label": "p2",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.12-class",
+        "description": "section01_python_for_machine_learning.12-class",
+        "peekOfCode": "p2 = Person(\"Ali\", \"Karimi\")\nln = p1.return_last_name()\nln2 = p2.return_last_name()\nprint(ln)\nprint(ln2)",
+        "detail": "section01_python_for_machine_learning.12-class",
+        "documentation": {}
+    },
+    {
+        "label": "ln",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.12-class",
+        "description": "section01_python_for_machine_learning.12-class",
+        "peekOfCode": "ln = p1.return_last_name()\nln2 = p2.return_last_name()\nprint(ln)\nprint(ln2)",
+        "detail": "section01_python_for_machine_learning.12-class",
+        "documentation": {}
+    },
+    {
+        "label": "ln2",
+        "kind": 5,
+        "importPath": "section01_python_for_machine_learning.12-class",
+        "description": "section01_python_for_machine_learning.12-class",
+        "peekOfCode": "ln2 = p2.return_last_name()\nprint(ln)\nprint(ln2)",
+        "detail": "section01_python_for_machine_learning.12-class",
+        "documentation": {}
+    },
+    {
+        "label": "get_text",
+        "kind": 2,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "def get_text(raw_url):\n\tpage = urlopen(raw_url)\n\tsoup = BeautifulSoup(page)\n\tfetched_text = ' '.join(map(lambda p:p.text,soup.find_all('p')))\n\treturn fetched_text\ndef main():\n\tst.title(\"تحلیل احساس مبتنی بر متن\")\n\tactivities = [\"Sentiment\",\"Text Analysis on URL\",\"About\"]\n\tchoice = st.sidebar.selectbox(\"صفحات\",activities)\n\tif choice == 'Sentiment':",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "def main():\n\tst.title(\"تحلیل احساس مبتنی بر متن\")\n\tactivities = [\"Sentiment\",\"Text Analysis on URL\",\"About\"]\n\tchoice = st.sidebar.selectbox(\"صفحات\",activities)\n\tif choice == 'Sentiment':\n\t\tst.subheader(\"تحلیل احساس\")\n\t\tst.write(emoji.emojize('ممنون از انتخاب شما :red_heart:'))\n\t\traw_text = st.text_area(\"متن انگلیسی خود را وارد کنید\",\"متن نمونه\")\n\t\tif st.button(\"تحلیل\"):\n\t\t\tblob = TextBlob(raw_text)",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\tpage",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\tpage = urlopen(raw_url)\n\tsoup = BeautifulSoup(page)\n\tfetched_text = ' '.join(map(lambda p:p.text,soup.find_all('p')))\n\treturn fetched_text\ndef main():\n\tst.title(\"تحلیل احساس مبتنی بر متن\")\n\tactivities = [\"Sentiment\",\"Text Analysis on URL\",\"About\"]\n\tchoice = st.sidebar.selectbox(\"صفحات\",activities)\n\tif choice == 'Sentiment':\n\t\tst.subheader(\"تحلیل احساس\")",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\tsoup",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\tsoup = BeautifulSoup(page)\n\tfetched_text = ' '.join(map(lambda p:p.text,soup.find_all('p')))\n\treturn fetched_text\ndef main():\n\tst.title(\"تحلیل احساس مبتنی بر متن\")\n\tactivities = [\"Sentiment\",\"Text Analysis on URL\",\"About\"]\n\tchoice = st.sidebar.selectbox(\"صفحات\",activities)\n\tif choice == 'Sentiment':\n\t\tst.subheader(\"تحلیل احساس\")\n\t\tst.write(emoji.emojize('ممنون از انتخاب شما :red_heart:'))",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\tfetched_text",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\tfetched_text = ' '.join(map(lambda p:p.text,soup.find_all('p')))\n\treturn fetched_text\ndef main():\n\tst.title(\"تحلیل احساس مبتنی بر متن\")\n\tactivities = [\"Sentiment\",\"Text Analysis on URL\",\"About\"]\n\tchoice = st.sidebar.selectbox(\"صفحات\",activities)\n\tif choice == 'Sentiment':\n\t\tst.subheader(\"تحلیل احساس\")\n\t\tst.write(emoji.emojize('ممنون از انتخاب شما :red_heart:'))\n\t\traw_text = st.text_area(\"متن انگلیسی خود را وارد کنید\",\"متن نمونه\")",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\tactivities",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\tactivities = [\"Sentiment\",\"Text Analysis on URL\",\"About\"]\n\tchoice = st.sidebar.selectbox(\"صفحات\",activities)\n\tif choice == 'Sentiment':\n\t\tst.subheader(\"تحلیل احساس\")\n\t\tst.write(emoji.emojize('ممنون از انتخاب شما :red_heart:'))\n\t\traw_text = st.text_area(\"متن انگلیسی خود را وارد کنید\",\"متن نمونه\")\n\t\tif st.button(\"تحلیل\"):\n\t\t\tblob = TextBlob(raw_text)\n\t\t\tresult = blob.sentiment.polarity\n\t\t\tif result > 0.0:",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\tchoice",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\tchoice = st.sidebar.selectbox(\"صفحات\",activities)\n\tif choice == 'Sentiment':\n\t\tst.subheader(\"تحلیل احساس\")\n\t\tst.write(emoji.emojize('ممنون از انتخاب شما :red_heart:'))\n\t\traw_text = st.text_area(\"متن انگلیسی خود را وارد کنید\",\"متن نمونه\")\n\t\tif st.button(\"تحلیل\"):\n\t\t\tblob = TextBlob(raw_text)\n\t\t\tresult = blob.sentiment.polarity\n\t\t\tif result > 0.0:\n\t\t\t\tcustom_emoji = ':smile:'",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\traw_text",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\traw_text = st.text_area(\"متن انگلیسی خود را وارد کنید\",\"متن نمونه\")\n\t\tif st.button(\"تحلیل\"):\n\t\t\tblob = TextBlob(raw_text)\n\t\t\tresult = blob.sentiment.polarity\n\t\t\tif result > 0.0:\n\t\t\t\tcustom_emoji = ':smile:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))\n\t\t\telif result < 0.0:\n\t\t\t\tcustom_emoji = ':disappointed:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tblob",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\tblob = TextBlob(raw_text)\n\t\t\tresult = blob.sentiment.polarity\n\t\t\tif result > 0.0:\n\t\t\t\tcustom_emoji = ':smile:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))\n\t\t\telif result < 0.0:\n\t\t\t\tcustom_emoji = ':disappointed:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))\n\t\t\telse:\n\t\t\t\tst.write(emoji.emojize(':expressionless:'))",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tresult",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\tresult = blob.sentiment.polarity\n\t\t\tif result > 0.0:\n\t\t\t\tcustom_emoji = ':smile:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))\n\t\t\telif result < 0.0:\n\t\t\t\tcustom_emoji = ':disappointed:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))\n\t\t\telse:\n\t\t\t\tst.write(emoji.emojize(':expressionless:'))\n\t\t\tst.info(\"امتیاز:: {}\".format(result))",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tcustom_emoji",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tcustom_emoji = ':smile:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))\n\t\t\telif result < 0.0:\n\t\t\t\tcustom_emoji = ':disappointed:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))\n\t\t\telse:\n\t\t\t\tst.write(emoji.emojize(':expressionless:'))\n\t\t\tst.info(\"امتیاز:: {}\".format(result))\n\tif choice == 'Text Analysis on URL':\n\t\tst.subheader(\"تحلیل احساس صفحه‌ی وب\")",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tcustom_emoji",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tcustom_emoji = ':disappointed:'\n\t\t\t\tst.write(emoji.emojize(custom_emoji))\n\t\t\telse:\n\t\t\t\tst.write(emoji.emojize(':expressionless:'))\n\t\t\tst.info(\"امتیاز:: {}\".format(result))\n\tif choice == 'Text Analysis on URL':\n\t\tst.subheader(\"تحلیل احساس صفحه‌ی وب\")\n\t\traw_url = st.text_input(\"آدرس را وارد کنید\",\"https://google.com\")\n\t\ttext_preview_length = st.slider(\"پیش‌نمایش\", 50, 100)\n\t\tif st.button(\"تحلیل\"):",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\traw_url",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\traw_url = st.text_input(\"آدرس را وارد کنید\",\"https://google.com\")\n\t\ttext_preview_length = st.slider(\"پیش‌نمایش\", 50, 100)\n\t\tif st.button(\"تحلیل\"):\n\t\t\tif raw_url != \"\":\n\t\t\t\tresult = get_text(raw_url)\n\t\t\t\tblob = TextBlob(result)\n\t\t\t\tlen_of_full_text = len(result)\n\t\t\t\tlen_of_short_text = round(len(result)/text_preview_length)\n\t\t\t\tst.success(\"طول متن::{}\".format(len_of_full_text))\n\t\t\t\tst.success(\"طول متن کوتاه شده::{}\".format(len_of_short_text))",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttext_preview_length",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\ttext_preview_length = st.slider(\"پیش‌نمایش\", 50, 100)\n\t\tif st.button(\"تحلیل\"):\n\t\t\tif raw_url != \"\":\n\t\t\t\tresult = get_text(raw_url)\n\t\t\t\tblob = TextBlob(result)\n\t\t\t\tlen_of_full_text = len(result)\n\t\t\t\tlen_of_short_text = round(len(result)/text_preview_length)\n\t\t\t\tst.success(\"طول متن::{}\".format(len_of_full_text))\n\t\t\t\tst.success(\"طول متن کوتاه شده::{}\".format(len_of_short_text))\n\t\t\t\tst.info(result[:len_of_short_text])",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tresult",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tresult = get_text(raw_url)\n\t\t\t\tblob = TextBlob(result)\n\t\t\t\tlen_of_full_text = len(result)\n\t\t\t\tlen_of_short_text = round(len(result)/text_preview_length)\n\t\t\t\tst.success(\"طول متن::{}\".format(len_of_full_text))\n\t\t\t\tst.success(\"طول متن کوتاه شده::{}\".format(len_of_short_text))\n\t\t\t\tst.info(result[:len_of_short_text])\n\t\t\t\tc_sentences = [ sent for sent in blob.sentences ]\n\t\t\t\tc_sentiment = [sent.sentiment.polarity for sent in blob.sentences]\n\t\t\t\tnew_df = pd.DataFrame(zip(c_sentences,c_sentiment),columns=['Sentence','Sentiment'])",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tblob",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tblob = TextBlob(result)\n\t\t\t\tlen_of_full_text = len(result)\n\t\t\t\tlen_of_short_text = round(len(result)/text_preview_length)\n\t\t\t\tst.success(\"طول متن::{}\".format(len_of_full_text))\n\t\t\t\tst.success(\"طول متن کوتاه شده::{}\".format(len_of_short_text))\n\t\t\t\tst.info(result[:len_of_short_text])\n\t\t\t\tc_sentences = [ sent for sent in blob.sentences ]\n\t\t\t\tc_sentiment = [sent.sentiment.polarity for sent in blob.sentences]\n\t\t\t\tnew_df = pd.DataFrame(zip(c_sentences,c_sentiment),columns=['Sentence','Sentiment'])\n\t\t\t\tst.write(new_df.to_html(), unsafe_allow_html=True)",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tlen_of_full_text",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tlen_of_full_text = len(result)\n\t\t\t\tlen_of_short_text = round(len(result)/text_preview_length)\n\t\t\t\tst.success(\"طول متن::{}\".format(len_of_full_text))\n\t\t\t\tst.success(\"طول متن کوتاه شده::{}\".format(len_of_short_text))\n\t\t\t\tst.info(result[:len_of_short_text])\n\t\t\t\tc_sentences = [ sent for sent in blob.sentences ]\n\t\t\t\tc_sentiment = [sent.sentiment.polarity for sent in blob.sentences]\n\t\t\t\tnew_df = pd.DataFrame(zip(c_sentences,c_sentiment),columns=['Sentence','Sentiment'])\n\t\t\t\tst.write(new_df.to_html(), unsafe_allow_html=True)\n\tif choice == 'About':",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tlen_of_short_text",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tlen_of_short_text = round(len(result)/text_preview_length)\n\t\t\t\tst.success(\"طول متن::{}\".format(len_of_full_text))\n\t\t\t\tst.success(\"طول متن کوتاه شده::{}\".format(len_of_short_text))\n\t\t\t\tst.info(result[:len_of_short_text])\n\t\t\t\tc_sentences = [ sent for sent in blob.sentences ]\n\t\t\t\tc_sentiment = [sent.sentiment.polarity for sent in blob.sentences]\n\t\t\t\tnew_df = pd.DataFrame(zip(c_sentences,c_sentiment),columns=['Sentence','Sentiment'])\n\t\t\t\tst.write(new_df.to_html(), unsafe_allow_html=True)\n\tif choice == 'About':\n\t\tst.subheader(\"گروه برنامه‌نویسان جالب\")",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tc_sentences",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tc_sentences = [ sent for sent in blob.sentences ]\n\t\t\t\tc_sentiment = [sent.sentiment.polarity for sent in blob.sentences]\n\t\t\t\tnew_df = pd.DataFrame(zip(c_sentences,c_sentiment),columns=['Sentence','Sentiment'])\n\t\t\t\tst.write(new_df.to_html(), unsafe_allow_html=True)\n\tif choice == 'About':\n\t\tst.subheader(\"گروه برنامه‌نویسان جالب\")\n\t\tst.info(\"قدرتمندترین برنامه‌نویسان جهان هستیم\")\n\t\tst.text(\"programers.com\")\nif __name__ == '__main__':\n\tmain()",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tc_sentiment",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tc_sentiment = [sent.sentiment.polarity for sent in blob.sentences]\n\t\t\t\tnew_df = pd.DataFrame(zip(c_sentences,c_sentiment),columns=['Sentence','Sentiment'])\n\t\t\t\tst.write(new_df.to_html(), unsafe_allow_html=True)\n\tif choice == 'About':\n\t\tst.subheader(\"گروه برنامه‌نویسان جالب\")\n\t\tst.info(\"قدرتمندترین برنامه‌نویسان جهان هستیم\")\n\t\tst.text(\"programers.com\")\nif __name__ == '__main__':\n\tmain()\n# MasoudKaviani.ir",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tnew_df",
+        "kind": 5,
+        "importPath": "StreamLitSentiment.app",
+        "description": "StreamLitSentiment.app",
+        "peekOfCode": "\t\t\t\tnew_df = pd.DataFrame(zip(c_sentences,c_sentiment),columns=['Sentence','Sentiment'])\n\t\t\t\tst.write(new_df.to_html(), unsafe_allow_html=True)\n\tif choice == 'About':\n\t\tst.subheader(\"گروه برنامه‌نویسان جالب\")\n\t\tst.info(\"قدرتمندترین برنامه‌نویسان جهان هستیم\")\n\t\tst.text(\"programers.com\")\nif __name__ == '__main__':\n\tmain()\n# MasoudKaviani.ir\n# python -m streamlit run app.py --server.port 8080",
+        "detail": "StreamLitSentiment.app",
+        "documentation": {}
+    },
+    {
+        "label": "DataCollector",
+        "kind": 6,
+        "importPath": "WebScrapping.app",
+        "description": "WebScrapping.app",
+        "peekOfCode": "class DataCollector(CrawlSpider):\n    name = 'https://www.isna.ir'\n    allowed_domains = ['www.isna.ir']\n    start_urls = ['https://www.isna.ir']\n    rules = (\n        Rule(LinkExtractor(), callback='parse_item', follow=True),\n    )\n    def parse_item(self, response):\n        if 'isna.ir/news' in response.url:\n            title = response.css('h1.first-title::text').get()",
+        "detail": "WebScrapping.app",
+        "documentation": {}
+    }
+]
